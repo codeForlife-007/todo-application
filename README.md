@@ -1,6 +1,6 @@
-# todo-list
-# Todo Application - Tools and Technologies
+# Todo Application 
 
+Tools and Technologies
 - Spring boot
 - JPA(Hibernate) + MySQL
 - Thymeleaf + Bootstrap CSS
